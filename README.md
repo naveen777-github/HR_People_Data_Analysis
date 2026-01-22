@@ -10,8 +10,14 @@ The report is delivered as a single Power BI file: **`HR_Tool_Completed.pbix`** 
 ### Pages
 - **Cover Page** – landing page / navigation
 - **Headcount** – current workforce size + demographic and org breakdowns
+  <img width="1133" height="538" alt="image" src="https://github.com/user-attachments/assets/a7d1d00c-a1a4-4d26-b9ce-9ac3183284cb" />
+
 - **Retention** – retention trend and comparisons across dimensions
+  <img width="1123" height="542" alt="image" src="https://github.com/user-attachments/assets/6a56cea4-5b10-4020-9665-a7961b1ff81c" />
+
 - **Turnover** – turnover rate, departing employees, reasons/types, and termination details table
+  <img width="1128" height="552" alt="image" src="https://github.com/user-attachments/assets/d80cd9f9-79c8-45c8-add1-7ad66b1bb0c4" />
+
 - **Tooltip** – custom tooltip page used by visuals
 
 ---
